@@ -6,7 +6,6 @@ void main() {
     final byte MONTHS_IN_YEAR = 12;
 
     Scanner scanner = new Scanner(System.in);
-
     System.out.print("Principal: ");
     int amountOfMoney = scanner.nextInt();
     //System.out.println("Amount of Money " + amountOfMoney);
